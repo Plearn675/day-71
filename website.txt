@@ -1,0 +1,6 @@
+https://day-71-c077.onrender.com
+
+Usei o render.com para criar um webservice
+depois criei uma POSTGRES "Blog DB"
+    onde no enviroment utilizei o Internal Database URL (DB_URI) que foi facultado pelo postgres
+    por ultimo alteri o Environment para o que foi previamente facultado online e no pycharm
